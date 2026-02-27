@@ -1,0 +1,14 @@
+slug: grounding-creative
+name: "Grounding Creative"
+description: "Review vocabulary atlas and TDRs for a design area"
+capabilities:
+  model_tier: sonnet
+  danger_level: safe
+  effort_hint: small
+  downgrade_allowed: true
+  execution_hint: sequential
+  requires:
+    native_runtime: false
+    tool_calling: false
+    thinking_traces: false
+    vision: false

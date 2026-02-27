@@ -1,0 +1,14 @@
+slug: recording-taste
+name: "Recording Taste"
+description: "Create and manage Taste Decision Records (TDRs)"
+capabilities:
+  model_tier: sonnet
+  danger_level: safe
+  effort_hint: medium
+  downgrade_allowed: true
+  execution_hint: sequential
+  requires:
+    native_runtime: false
+    tool_calling: false
+    thinking_traces: false
+    vision: false
