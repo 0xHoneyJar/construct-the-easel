@@ -6,6 +6,7 @@ description: "Creative studio for aesthetic direction — vocabulary grounding, 
 author: "0xHoneyJar"
 license: "MIT"
 type: "skill-pack"
+visibility: public
 
 repository: https://github.com/0xHoneyJar/construct-the-easel.git
 
