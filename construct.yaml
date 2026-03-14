@@ -1,7 +1,7 @@
 schema_version: 3
 name: "The Easel"
 slug: "the-easel"
-version: "1.0.0"
+version: "1.1.0"
 description: "Creative studio for aesthetic direction — vocabulary grounding, visual exploration, result capture, and taste decisions. Domain-agnostic: install and populate with your project's aesthetic vocabulary."
 short_description: "Aesthetic direction studio"
 author: "0xHoneyJar"
