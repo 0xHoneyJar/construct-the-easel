@@ -66,6 +66,17 @@ events:
     - name: forge.artisan.taste_inscribed
       description: "Can ground visual exploration in Artisan taste tokens"
 
+composition_paths:
+  reads:
+    - grimoires/artisan/
+  writes:
+    - grimoires/the-easel/
+compose_with:
+  - slug: artisan
+    relationship: "Reads Artisan taste tokens to ground visual exploration; TDRs feed back into Artisan inscription"
+governed_by:
+  - slug: artisan
+    relationship: "Taste token governance — Easel TDRs must conform to Artisan-inscribed tokens"
 pack_dependencies:
   optional:
     - slug: artisan
