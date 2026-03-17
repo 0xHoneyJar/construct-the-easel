@@ -82,6 +82,17 @@ pack_dependencies:
     - slug: artisan
       reason: "Taste token handoff — Easel TDRs can inform Artisan inscribed tokens"
 
+capabilities:
+  model_tier: sonnet
+  danger_level: safe
+  effort_hint: medium
+  downgrade_allowed: true
+  execution_hint: parallel
+  requires:
+    tool_calling: true
+    thinking_traces: false
+    vision: true
+
 workflow:
   depth: light
   gates:
