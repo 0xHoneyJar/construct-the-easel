@@ -2,7 +2,7 @@ schema_version: 3
 name: "The Easel"
 slug: "the-easel"
 version: "1.1.0"
-description: "Creative studio for visual direction — moodboarding, reference exploration, visual capture, and design decision records. Domain-agnostic: install it and populate with your project's visual vocabulary and brand references."
+description: "Creative studio for visual direction — moodboarding, reference collection, screenshot capture, and design decisions. Works with any project: install it and add your brand references and visual inspiration."
 short_description: "Moodboarding + visual direction decisions"
 author: "0xHoneyJar"
 license: "MIT"
