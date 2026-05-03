@@ -1,3 +1,10 @@
+---
+name: grounding-creative
+description: "Review and establish aesthetic vocabulary. Reads atlas + TDRs, identifies gaps, prepares creative context."
+allowed-tools: [Bash, Read, Grep, Glob, Edit, Write]
+user-invocable: false
+---
+
 # Grounding Creative
 
 ## Purpose

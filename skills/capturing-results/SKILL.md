@@ -1,3 +1,10 @@
+---
+name: capturing-results
+description: "Annotate visual generation results with vocabulary terms and quality assessments."
+allowed-tools: [Bash, Read, Grep, Glob, Edit, Write]
+user-invocable: false
+---
+
 # Capturing Results
 
 ## Purpose

@@ -1,3 +1,10 @@
+---
+name: recording-taste
+description: "Create and manage Taste Decision Records (TDRs) — context, rationale, alternatives, vocabulary anchors."
+allowed-tools: [Bash, Read, Grep, Glob, Edit, Write]
+user-invocable: false
+---
+
 # Recording Taste
 
 ## Purpose
