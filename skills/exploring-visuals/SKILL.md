@@ -1,3 +1,10 @@
+---
+name: exploring-visuals
+description: "Generate single-focus image prompts grounded in vocabulary atlas. Recraft V4 Pro via Fal.ai."
+allowed-tools: [Bash, Read, Grep, Glob, Edit, Write]
+user-invocable: false
+---
+
 # Exploring Visuals
 
 ## Purpose
